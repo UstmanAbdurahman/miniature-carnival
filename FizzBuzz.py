@@ -1,4 +1,4 @@
-class `Algorithms`:
+class Algorithms:
     def FizzBuzz(param1,param2): #the fizz buzz function
         num1 = param1
         num2 = param2
